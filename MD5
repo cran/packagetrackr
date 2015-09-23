@@ -1,0 +1,7 @@
+ce64528d2f232460122ed8eb37bba291 *DESCRIPTION
+73520a5ad9c854f3406652f8f3666854 *NAMESPACE
+3ab365e6b75c8c970ac1e330d49f5719 *R/package_downloads.R
+b47415e072eb8bde6e149bb98cb359a7 *man/download_log.Rd
+11b27c96d02818e9f08d88819d7e9b33 *man/package_download_cache_dir.Rd
+95faa32a34209c58823fe4095e17edcc *man/package_downloads.Rd
+17ec0ad6935fa6f35fa885337a16dc46 *man/packagetracker.Rd
